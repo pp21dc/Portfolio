@@ -1,8 +1,7 @@
 # Breaking Out
 
 
-## Play Now
-Play the game [here]
+## Play NowPlay the game [here](https://pp21dc.github.io/IASC1P04/final_build/TwineGameFinal.html)
 ## Playtest
 
 ## Playtest the game
