@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>HTML Elements Reference</title>
+  <title>Patrick Perry - Portfolio</title>
 </head>
 <body>
 
