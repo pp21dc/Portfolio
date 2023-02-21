@@ -1,4 +1,12 @@
-##Welcome to my portfolio!
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Elements Reference</Portfolio>
+</head>
+<body>
 
-#Who am I?
-My names Patrick Perry, I'm a 2nd year University student studying Computer Science and Game Development at Brock University.
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
